@@ -1,7 +1,17 @@
-function calculateBmi(a, b) {
-    console.log(a + b);
-}
-calculateBmi(10, 12);
+// function calculateBmi(a, b) {
+//     console.log(a + b);
+// }
+// function calculateBmi(name, weight, height) {
+//     let bmi = weight / (height * height);
+//     //console.log(name + "'s BMI is " + bmi);
+//     console.log(`${name}'s BMI is ${bmi} `);
+// }
+// calculateBmi("Usmon", 80, 1.8);
+// calculateBmi("Bilol", 70, 1.7);
+// calculateBmi("azam", 89, 1.9);
+// calculateBmi("umar", 65, 1.75);
+
+
 
 
 
